@@ -1,0 +1,2 @@
+El archivo random.js genera numeros aleatorios y los almacena en la variable 'numero'.
+Compara si el numero es mayor o menor que 0.5 y en base a eso muestra por pantalla 'MAYOR que 0.5' o 'MENOR que 0.5'.
